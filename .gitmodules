@@ -1,0 +1,15 @@
+[submodule "hw0"]
+	path = hw0
+	url = https://github.com/SplashCloud/dlsys-10714-hw0.git
+[submodule "hw1"]
+	path = hw1
+	url = https://github.com/SplashCloud/dlsys-10714-hw1.git
+[submodule "hw2"]
+	path = hw2
+	url = https://github.com/SplashCloud/dlsys-10714-hw2.git
+[submodule "hw3"]
+	path = hw3
+	url = https://github.com/SplashCloud/dlsys-10714-hw3.git
+[submodule "hw4"]
+	path = hw4
+	url = https://github.com/SplashCloud/dlsys-10714-hw4.git
